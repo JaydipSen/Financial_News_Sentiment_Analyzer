@@ -186,4 +186,4 @@ pip install --upgrade streamlit plotly
 
 ## License / use
 
-Use, modify, and adapt this project for classroom teaching, student exercises, and prototyping. Check provider terms and applicable licenses before deploying or redistributing with additional models, data, or APIs.
+This repository is made publicly available for educational, academic, and classroom use. Permission is granted to access and use the code for learning, teaching, and academic demonstration purposes. Redistribution, commercial use, modification for public distribution, or incorporation into other projects requires prior written permission from the copyright holder, unless otherwise specified. This repository is provided "as is", without warranty of any kind. The author assumes no responsibility for any loss or damage arising from its use. For other permissions or licensing inquiries, please contact the author.
